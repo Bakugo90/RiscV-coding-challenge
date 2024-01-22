@@ -44,9 +44,9 @@ I decide to pick the second problem. And choose Python as programming language.
 
 ```
 
-### 3. Implementation
+### 3. Testing
 
-Follow this link :
+Clone this repository, open your terminal and run `python ./test_filter_integer.py`
 
 ### 4. Space and time complexity
 
